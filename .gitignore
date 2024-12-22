@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv
+.env
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and Database
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE Files
+.vscode/
+.idea/
